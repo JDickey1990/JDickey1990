@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate problem solver from Oregon</h3>
 
-- 🔭 I’m currently working on [React Daydreams](https://github.com/JDickey1990/e-commerce_frontend)
+- 🔭 I’m currently working on [Portfolio Project](https://github.com/JDickey1990/Portfolio-Project)
 
 - 🌱 I’m currently learning **Algorithms and Data Structures**
 
