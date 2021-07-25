@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A passionate problem solver from Oregon</h3>
+<h3 align="center">A passionate problem solver</h3>
 
 - 🔭 I’m currently working on [Portfolio Project](https://github.com/JDickey1990/Portfolio-Project)
 
